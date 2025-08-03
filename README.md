@@ -1,2 +1,2 @@
 # MineGo-Lobby
-MineGo Lobby server for Minecraft Bedrock
+Minecraft Bedrock MineGo Server Lobby
